@@ -5,7 +5,7 @@ height: 808px;
 flex-shrink: 0;
 
     text-align: right;
-    padding:  216px 225px 365px 845px;
+    padding:  216px 225px 0px 800px;
     background-image: url('../source/new-year-new-me-main/images/banner/banner3.png');
 }
 
@@ -48,3 +48,47 @@ font-size: 20px;
 font-style: normal;
 
 }
+
+/*main started*/
+
+.scs-prm{display: flex;
+
+max-width: 1140px;
+max-height: 808px;
+margin: 0 auto;
+}
+.fst-hdn{padding: 230px 128px 24px 134px ;}
+.fst-hdn{color: var(--Dark-01, #151414);
+    font-family: Work Sans;
+    font-size: 40px;}
+
+    .fstp{
+        color: var(--Dark-02, #444343);
+        font-family: Work Sans;
+        font-size: 16px;
+
+    }
+    .ftsul{
+        color: var(--Dark-02, #444343);
+        font-family: Work Sans;
+        font-size: 16px;
+
+    }
+
+    /*new section*/
+
+    .scs-scnd{
+        display: flex;
+        
+        margin: 0 230px;
+    }
+    .lgp{
+        margin-left: 40px;
+        }
+
+    .lgh{
+        color:  #151414;
+
+font-family: Work Sans;
+font-size: 30px;
+    }
