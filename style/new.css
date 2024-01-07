@@ -1,0 +1,50 @@
+.start {
+background-repeat: no-repeat;
+width: 1600px;
+height: 808px;
+flex-shrink: 0;
+
+    text-align: right;
+    padding:  216px 225px 365px 845px;
+    background-image: url('../source/new-year-new-me-main/images/banner/banner3.png');
+}
+
+.content{
+    margin: ;
+    max-width: 525px;}
+
+.hdn {
+   
+    color: #FFF;
+    text-align: right;
+    font-family: Work Sans;
+    font-size: 65px;
+    
+   
+}
+
+.fst-p {
+   
+    color: #FFF;
+    
+    font-family: Work Sans;
+    font-size: 16px;
+    font-style: normal;
+    
+    /* 162.5% */
+
+}
+
+.btn-prm {
+    width: 160px;
+    height: 64px;
+    flex-shrink: 0;
+    border-radius: 5px;
+    background: #FFF;
+    color: #005FAC;
+
+font-family: Work Sans;
+font-size: 20px;
+font-style: normal;
+
+}
